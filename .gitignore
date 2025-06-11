@@ -1,0 +1,17 @@
+cmake-build-*/
+build/
+cmake-build-debug/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+*.exe
+*.out
+*.o
+*.obj
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
